@@ -1,0 +1,13 @@
+
+- VREAU sa fac level up cu MyLushka 97-99
+
+- VREAU sa o bat pe Maven cu MyLushka
+
+- VREAU sa fac Level Up cu TornadoShot - BowMeena
+
+	- exclude hartile cu reflect damage:		!tal d|gen|% ma|o su|rev
+
+- VREAU sa o fac pe Maven cu TornadoShot - not that important 
+
+- VREAU sa iau ultimul VoidStone cu MyLushka
+
