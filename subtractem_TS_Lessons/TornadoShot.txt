@@ -1,0 +1,31 @@
+==TornadoShot==
+- 8 Arrows Minimum to feel good
+- have projectile speed
+
+- Awakened Greater Multiple Proj support 5/20%
+
+- Dying Sun?
+    +2 Projectile
+
+- PoE Kill Counter?
+
+==Setups==
+- Ensnaring Arrow
+- Frenzy
+- Manaforged Arrows
+- Culling strike
+
+- What can't hit you, can't kill you
+
+==Map Filters (for TornadoShot)==
+
+Reject these maps:
+
+    !tal d|f ph|gen|eec|h tem|% ma|s rec|non|tip|ked
+
+    !nsecrate|f bur|es of d|hil|ask|r,|h vu|kes|rev
+
+Want these maps:
+
+    ei p' two "e mag" nu
+
