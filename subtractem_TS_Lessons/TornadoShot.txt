@@ -21,9 +21,8 @@
 
 Reject these maps:
 
-    !tal d|f ph|gen|eec|h tem|% ma|s rec|non|tip|ked
+"!f ph|tal d|gen|eec|h tem|% ma|s rec|non|rev"
 
-    !nsecrate|f bur|es of d|hil|ask|r,|h vu|kes|rev
 
 Want these maps:
 
