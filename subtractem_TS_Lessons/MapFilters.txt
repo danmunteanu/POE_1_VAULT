@@ -1,0 +1,12 @@
+==1. Primary Avoid==
+==2. Avoid Patches==
+
+"!f ph|tal d|gen|eec|h tem|% ma|s rec|rev|non"
+"!withe|ked|nsecrate|f bur|hil|es of d"
+
+==Qty==
+71+
+"m q.*([7-9].|1..)%"
+
+100+
+"m q.*(\d{3})%"s
